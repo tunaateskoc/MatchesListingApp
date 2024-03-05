@@ -24,7 +24,7 @@ Matches Listing App is a sample Android application built with Kotlin and Jetpac
 <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/portrait1.png" width="200"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/portrait2.png" width="200"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/portrait3.png" width="200"> 
 
 ### Landscape Mode
-<img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape1.png" width="200"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape2.png" width="200"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape3.png" width="200">
+<img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape1.png" width="400"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape2.png" width="400"> <img src="https://github.com/tunaateskoc/MatchesListingApp/blob/main/screenshots/landscape3.png" width="400">
 
 ## Prerequisites
 
