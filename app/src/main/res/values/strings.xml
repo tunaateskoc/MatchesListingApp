@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MatchesListingApp</string>
+    <string name="matches">Matches</string>
+    <string name="favourites">Favourites</string>
+    <string name="service_error">Could not retrieve matches please try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="fav_match_not_found">You don\'t have any favorite matches. You can click on the star in the match list to add a favorite match.</string>
+</resources>

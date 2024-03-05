@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maç Listeleme Uygulaması</string>
+    <string name="matches">Maçlar</string>
+    <string name="favourites">Favoriler</string>
+    <string name="service_error">Maçlar indirelemedi lütfen tekrar deneyin.</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="fav_match_not_found">Favori maçınız yok. Favori maç eklemek için maç listesindeki yıldıza tıklayabilirsiniz.</string>
+</resources>
